@@ -1,0 +1,24 @@
+.friendItemAva {
+    margin-bottom: 20px;
+}
+
+.friendItemName {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    color: black;
+}
+
+.friendItemStatus {
+    display: block;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: center;
+    color: green;
+}
+
+.friendItemStatus.offLine {
+    color: red;
+}
